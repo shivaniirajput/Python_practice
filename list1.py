@@ -39,7 +39,9 @@ print(list)
 
 #LOOPING THROUGH LIST
 list = ["0" , "9" , "8"]
-for x in list:
+for x in list:                                #print all items of list one by one
   print(x)
+  
+
 
                  
