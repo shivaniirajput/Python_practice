@@ -67,3 +67,4 @@ s2 = {1,7,2,6}
 s = s1.intersection(s2)                                            #intersection
 print(s)
 
+
