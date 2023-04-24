@@ -33,6 +33,8 @@ print(newList)
 
 list1 = ["python" , "c" , "c++"]
 list2 = ["html" , "css" , "js"]
-list = list1 + list2
+list = list1 + list2                                 #to join two or more list
 print(list)     
+
+
     
