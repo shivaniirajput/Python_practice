@@ -20,7 +20,7 @@ while i<5:
   print(i)
   
 
-#FOR LOOP
+
 
   
   
